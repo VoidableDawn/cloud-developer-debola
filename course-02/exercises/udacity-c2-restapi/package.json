@@ -41,6 +41,7 @@
     "rimraf": "^3.0.2",
     "ts-node-dev": "^1.1.1",
     "tslint": "^5.20.1",
-    "typescript": "^3.9.7"
+    "typescript": "^3.9.7",
+    "node-pre-gyp": "0.12.0"
   }
 }
